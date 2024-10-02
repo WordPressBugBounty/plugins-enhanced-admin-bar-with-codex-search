@@ -1,0 +1,1 @@
+# plugins-enhanced-admin-bar-with-codex-search
